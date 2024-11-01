@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": ".",
-    "mongodbUri": "mongodb+srv://sub:itspossibler@cluster0.xbflmtx.mongodb.net/?retryWrites=true&w=majority",
+    "mongodbUri": "mongodb+srv://kychitoge:kychitoge@1804@mordomo.bkhjq.mongodb.net/?retryWrites=true&w=majority&appName=Mordomo",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
